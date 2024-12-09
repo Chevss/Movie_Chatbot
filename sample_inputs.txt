@@ -1,0 +1,41 @@
+Genre-related Queries
+"Genre of comedy"
+"Show me movies of action genre"
+"What movies are there in the sci-fi genre?"
+Actor-related Queries
+"Movies that Leonardo DiCaprio is in"
+"List movies featuring Emma Watson"
+"Give me films with Tom Hanks as an actor"
+Combined Actor and Genre Queries
+"Movies with Johnny Depp in the fantasy genre"
+"Are there any movies with Scarlett Johansson in the action genre?"
+"Films starring Brad Pitt in the comedy genre"
+Release Date Queries
+"Movies released in 1994"
+"List films from the year 2020"
+"Show movies that came out in 1980"
+Language Queries
+"Movies in French language"
+"List all films in Spanish"
+"Are there any movies in German?"
+Country Queries
+"Movies from the USA"
+"Give me films made in India"
+"List movies from Japan"
+Actor Gender Queries
+"Movies with male actors"
+"List films featuring female actors"
+Actor Age Queries
+"Movies with actor age at release 30"
+"Are there any films with actors aged 40 at the time of release?"
+Plot Summary Queries
+"Summary of Titanic"
+"What is the summary of Inception?"
+"Tell me about the plot of Avatar"
+Topic and Visualization Queries
+"Topics in movie summaries"
+"Show me the network of movies based on shared topics"
+General Queries
+"Find me something interesting about movies"
+"What can you do?"
+"Help me find a good movie to watch"
